@@ -1,0 +1,7 @@
+C:\Users\jhon wick\source\repos\laba 6\bin\Debug\laba 6.exe.config
+C:\Users\jhon wick\source\repos\laba 6\bin\Debug\laba 6.exe
+C:\Users\jhon wick\source\repos\laba 6\bin\Debug\laba 6.pdb
+C:\Users\jhon wick\source\repos\laba 6\obj\Debug\laba 6.csproj.AssemblyReference.cache
+C:\Users\jhon wick\source\repos\laba 6\obj\Debug\laba 6.csproj.CoreCompileInputs.cache
+C:\Users\jhon wick\source\repos\laba 6\obj\Debug\laba 6.exe
+C:\Users\jhon wick\source\repos\laba 6\obj\Debug\laba 6.pdb
