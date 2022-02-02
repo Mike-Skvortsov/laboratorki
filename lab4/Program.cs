@@ -15,7 +15,7 @@ namespace lab4
 			Console.Write("Введiть розмiр масиву : ");
 			size = int.Parse(Console.ReadLine());
 			double[] arr = new double [size];
-			for (int i = 0; i < size; i++)
+			for (int i = size; i > 0; i--)
 			{
 				Console.Write(i + 1 + " елемент масиву : ");
 				arr[i] = int.Parse(Console.ReadLine());
